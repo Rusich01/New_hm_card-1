@@ -10,11 +10,12 @@ body {
   display: inline-block;
   width: 30%;
   vertical-align: middle;
+  padding: 20px 30px;
   margin-left: -4px;
 }
 .container-card {
   width: 200px;
-  margin: 20px 30px;
+  margin: 0 auto;
   padding: 0 15px;
   background: #e0e0e0;
   color: #000000;
